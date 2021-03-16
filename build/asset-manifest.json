@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4301ec0f.chunk.css",
-    "main.js": "/static/js/main.40be3ec1.chunk.js",
-    "main.js.map": "/static/js/main.40be3ec1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2ba3824d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2ba3824d.js.map",
-    "static/css/2.fe359a49.chunk.css": "/static/css/2.fe359a49.chunk.css",
-    "static/js/2.1f19c517.chunk.js": "/static/js/2.1f19c517.chunk.js",
-    "static/js/2.1f19c517.chunk.js.map": "/static/js/2.1f19c517.chunk.js.map",
-    "static/js/3.e26cdf79.chunk.js": "/static/js/3.e26cdf79.chunk.js",
-    "static/js/3.e26cdf79.chunk.js.map": "/static/js/3.e26cdf79.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.4301ec0f.chunk.css.map": "/static/css/main.4301ec0f.chunk.css.map",
-    "static/js/2.1f19c517.chunk.js.LICENSE.txt": "/static/js/2.1f19c517.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/Jongwoop/robofriends/static/css/main.2f2ee735.chunk.css",
+    "main.js": "/Jongwoop/robofriends/static/js/main.608e42de.chunk.js",
+    "main.js.map": "/Jongwoop/robofriends/static/js/main.608e42de.chunk.js.map",
+    "runtime-main.js": "/Jongwoop/robofriends/static/js/runtime-main.70135bb4.js",
+    "runtime-main.js.map": "/Jongwoop/robofriends/static/js/runtime-main.70135bb4.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Jongwoop/robofriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.0805cf39.chunk.js": "/Jongwoop/robofriends/static/js/2.0805cf39.chunk.js",
+    "static/js/2.0805cf39.chunk.js.map": "/Jongwoop/robofriends/static/js/2.0805cf39.chunk.js.map",
+    "static/js/3.e26cdf79.chunk.js": "/Jongwoop/robofriends/static/js/3.e26cdf79.chunk.js",
+    "static/js/3.e26cdf79.chunk.js.map": "/Jongwoop/robofriends/static/js/3.e26cdf79.chunk.js.map",
+    "index.html": "/Jongwoop/robofriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Jongwoop/robofriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2f2ee735.chunk.css.map": "/Jongwoop/robofriends/static/css/main.2f2ee735.chunk.css.map",
+    "static/js/2.0805cf39.chunk.js.LICENSE.txt": "/Jongwoop/robofriends/static/js/2.0805cf39.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Jongwoop/robofriends/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ba3824d.js",
+    "static/js/runtime-main.70135bb4.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.1f19c517.chunk.js",
-    "static/css/main.4301ec0f.chunk.css",
-    "static/js/main.40be3ec1.chunk.js"
+    "static/js/2.0805cf39.chunk.js",
+    "static/css/main.2f2ee735.chunk.css",
+    "static/js/main.608e42de.chunk.js"
   ]
 }
